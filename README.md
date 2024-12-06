@@ -5,17 +5,20 @@ Welcome to the public repository of ZIZÓ, a personal project developed as part 
 Project Scope and Objectives
 
 ZIZÓ provides a comprehensive platform for:
-•	Recipe Sharing: Enabling users to discover and share unique recipes within a community. 
-•	Event Planning: Offering tools to plan and organize dinner events, create tailored menus, and generate shopping lists.
-•	AI-Driven Insights: Leveraging artificial intelligence for personalized recommendations for inspiration, quick assembly of events and smart computation.
+Recipe Sharing: Enabling users to discover and share unique recipes within a community. 
+Event Planning: Offering tools to plan and organize dinner events, create tailored menus, and generate shopping lists.
+AI-Driven Insights: Leveraging artificial intelligence for personalized recommendations for inspiration, quick assembly of events and smart computation.
 
 My Role and Contributions
 
 This project serves as a showcase of my technical expertise and problem-solving skills. All aspects of ZIZÓ, including its design, architecture, and development, are being independently executed by me. Key areas of focus include:
 
-•	Frontend Development: Implementing intuitive and responsive user interfaces using React Native.
-•	Backend Systems: Architecting scalable services with Node.js, MongoDB, and PostgreSQL.
-•	Artificial Intelligence Integration: Developing intelligent recommendation systems to enhance user experience with Python.
+
+Frontend Development: Implementing intuitive and responsive user interfaces using React Native.
+
+Backend Systems: Architecting scalable services with Node.js, MongoDB, and PostgreSQL.
+
+Artificial Intelligence Integration: Developing intelligent recommendation systems to enhance user experience with Python.
 
 Purpose of this Repository
 
