@@ -1,6 +1,6 @@
 # ZIZÓ: Public
 
-Welcome to the public repository of ZIZÓ, a personal project developed as part of my continuous learning and passion for cooking, hosting, and artificial intelligence. ZIZÓ is envisioned as a sophisticated food application and AI-powered assistant aimed at enhancing the experience of hosting and meal planning for hobby chefs and culinary enthusiasts.
+This is the public repository of ZIZÓ, a personal project developed as part of my continuous learning and passion for cooking, hosting, and artificial intelligence. ZIZÓ is envisioned as a sophisticated food application and AI-powered assistant aimed at enhancing the experience of hosting and meal planning for hobby chefs and culinary enthusiasts.
 
 
 
